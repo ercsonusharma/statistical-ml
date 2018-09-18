@@ -1,6 +1,12 @@
 Logistic Regression (Binary and Multiclass) in Detail:
 https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 
+Optimizer : {‘newton-cg’, ‘lbfgs’, ‘liblinear’, ‘sag’, ‘saga’},
+default: ‘liblinear’ Algorithm to use in the optimization problem.
+
+For small datasets, ‘liblinear’ is a good choice, whereas ‘sag’ and ‘saga’ are faster for large ones.
+For multiclass problems, only ‘newton-cg’, ‘sag’, ‘saga’ and ‘lbfgs’ handle multinomial loss;
+
 Loss(Cost) Function / Error: Function used to find the error at each step i.e. 
 how much the predicted result is varying with the actual one. 
 e.g. RMS, RAE, RSE, Cross Entropy - Binary, Categorical
