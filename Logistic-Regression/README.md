@@ -1,3 +1,6 @@
+Logistic Regression in Detail:
+https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
+
 Loss(Cost) Function / Error: Function used to find the error at each step i.e. 
 how much the predicted result is varying with the actual one. 
 e.g. RMS, RAE, RSE, Cross Entropy - Binary, Categorical
