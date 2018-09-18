@@ -1,4 +1,4 @@
-Logistic Regression in Detail:
+Logistic Regression (Binary and Multiclass) in Detail:
 https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 
 Loss(Cost) Function / Error: Function used to find the error at each step i.e. 
