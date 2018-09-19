@@ -1,0 +1,10 @@
+http://cs231n.github.io/
+https://www.superdatascience.com/deep-learning/
+
+
+https://www.codesofinterest.com/2017/08/bottleneck-features-multi-class-classification-keras.html
+RNN: https://arxiv.org/pdf/1604.04573.pdf
+
+Model Modification:
+https://flyyufelix.github.io/2016/10/03/fine-tuning-in-keras-part1.html
+https://github.com/flyyufelix/cnn_finetune
