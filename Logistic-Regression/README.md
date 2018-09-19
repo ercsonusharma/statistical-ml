@@ -20,8 +20,8 @@ More learning rate is less time-consuming but will have impact on the training.
 
 
 Activation Function:
-Threshold Function .  --- negative --> 0 && positive --> 1
-Sigmoid -- for all ---> between 0 and 1
-Rectifier . --> linear for positive and 0 for negative
-tanh -- for all ---> between -1 and 1
-Softmax . --> sum of all values will be 1
+[1] Threshold Function .  --- negative --> 0 && positive --> 1
+[2] Sigmoid -- for all ---> between 0 and 1
+[3] Rectifier . --> linear for positive and 0 for negative
+[4] tanh -- for all ---> between -1 and 1
+[5] Softmax . --> sum of all values will be 1
