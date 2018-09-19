@@ -19,4 +19,9 @@ Learning Rate: The rate through which the optimizer is going to adjust the weigh
 More learning rate is less time-consuming but will have impact on the training.
 
 
-Activation Function.
+Activation Function:
+Threshold Function .  --- negative --> 0 && positive --> 1
+Sigmoid -- for all ---> between 0 and 1
+Rectifier . --> linear for positive and 0 for negative
+tanh -- for all ---> between -1 and 1
+Softmax . --> sum of all values will be 1
