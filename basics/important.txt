@@ -8,3 +8,6 @@ RNN: https://arxiv.org/pdf/1604.04573.pdf
 Model Modification:
 https://flyyufelix.github.io/2016/10/03/fine-tuning-in-keras-part1.html
 https://github.com/flyyufelix/cnn_finetune
+
+Batch vs Epoch Vs Iteration
+https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
