@@ -11,3 +11,7 @@ https://github.com/flyyufelix/cnn_finetune
 
 Batch vs Epoch Vs Iteration
 https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
+
+
+TensorFlow vs Caffe vs CNTK vs Keras vs Pytorch vs DeepLearning4J
+https://medium.com/the-mission/8-best-deep-learning-frameworks-for-data-science-enthusiasts-d72714157761
