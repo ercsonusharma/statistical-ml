@@ -15,3 +15,9 @@ https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
 
 TensorFlow vs Caffe vs CNTK vs Keras vs Pytorch vs DeepLearning4J
 https://medium.com/the-mission/8-best-deep-learning-frameworks-for-data-science-enthusiasts-d72714157761
+
+
+
+Theano/Tensorflow/Torch is a Python library that lets you to define, optimize, and evaluate mathematical expressions, especially ones with multi-dimensional arrays (numpy.ndarray).
+
+Keras is built over Theano and Tensorflow.
