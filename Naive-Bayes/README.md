@@ -1,0 +1,7 @@
+It is also a classification model which considers the feature are independent of each other.
+https://www.youtube.com/watch?v=vz_xuxYS2PM
+
+Binary as well as multi-class classifier
+P(C|X) = P(X|C)*P(C)/P(X)
+Example: Predicting the game will be played or not on conditions like humidity,rain etc. Classifying into yes/no.
+In case of other model like SVM, we tokenize and convert all the feature into some numeric form and then draw the hypeplane.
