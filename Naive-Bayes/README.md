@@ -9,6 +9,8 @@ https://www.youtube.com/watch?v=rc3YDj5GiVM
 
 Binary as well as multi-class classifier
 P(C|X) = P(X|C)*P(C)/P(X)
+
+
 P(C|X) :: Probability of classifying in class C given than the feature X is found.
 
 Example: Predicting the game will be played or not on conditions like humidity,rain etc. Classifying into yes/no.
