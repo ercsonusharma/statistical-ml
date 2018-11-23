@@ -1,4 +1,6 @@
 
+Visualisation: http://tech.nitoyon.com/en/blog/2013/11/07/k-means/
+
 Clustering Analysis: https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/
 
 Mainly two types of clustering is popular:
