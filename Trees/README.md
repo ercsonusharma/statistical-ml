@@ -6,3 +6,5 @@ spliting the node in the tree on which criteria like >75 & <25 etc. or Yes & No 
 
 Entropy and Information Gain are the mathematical methods of choosing the best split.
 
+Bagging, Random Forest and Boosting 
+
